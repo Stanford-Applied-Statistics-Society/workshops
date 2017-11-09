@@ -1,0 +1,6 @@
+.mode csv
+.import ./Instacart/orders.csv orders
+.import ./Instacart/aisles.csv aisles
+.import ./Instacart/departments.csv departments
+.import ./Instacart/order_products__train.csv order_products
+.import ./Instacart/products.csv products
